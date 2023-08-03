@@ -6,11 +6,18 @@ body {
     text-align: center;
 }
 
+.banner {
+    width: auto;
+    height: auto;
+}
+
 h1,
 h2 {
     color: darkred;
 }
-
+nav {
+    width: 100%;
+}
 h3, 
 p,
 li {
@@ -25,6 +32,11 @@ img {
 
 main {
     margin: 0 20%;
+}
+
+.service {
+    display: inline-block;
+    text-align: center;
 }
 
 nav {
